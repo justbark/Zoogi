@@ -1,0 +1,7 @@
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\bin\Debug\zoogiHunter.exe.config
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\bin\Debug\zoogiHunter.exe
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\bin\Debug\zoogiHunter.pdb
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\bin\Debug\ScriptSDK.dll
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\obj\Debug\zoogiHunter.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\obj\Debug\zoogiHunter.exe
+C:\Users\Justin\Desktop\Scripts\zoogiHunter\zoogiHunter\obj\Debug\zoogiHunter.pdb
